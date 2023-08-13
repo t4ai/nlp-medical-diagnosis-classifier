@@ -1005,9 +1005,13 @@ textarea {
     display: none;
     text-align: center;
     color: #e74c3c;
+    font-size: 2rem;
+    margin-top: 1.4rem;
 }
 
 .prediction {
     color: #2ecc71;
     text-align: center;
+    font-size: 2rem;
+    margin-top: 1.4rem;
 }

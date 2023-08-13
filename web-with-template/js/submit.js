@@ -57,7 +57,7 @@ $('form.predectionForm').on('submit', function(){
 
             success: function(response){
 
-                $('.prediction').text(response);
+                $('.prediction').text('Predicted Condition: ' + response);
             }
 
         });
